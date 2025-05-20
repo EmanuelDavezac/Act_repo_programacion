@@ -1,1 +1,1 @@
-print(Hola ITEC 2025)
+print(Hola GitHub 2025)
